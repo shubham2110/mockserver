@@ -10,13 +10,12 @@
   },
   
    "jitsi" :  {
-         // The hex value for the colour used as background
          backgroundColor: '#f0f',
-         // The url for the image used as background
+
          backgroundImageUrl: 'https://www.impactmeet.in/assets/img/logo.png',
-         // The anchor url used when clicking the logo image
+
          logoClickUrl: 'https://www.impactmeet.in/assets/img/logo.png',
-         // The url used for the image used as logo
+
          logoImageUrl: 'https://www.impactmeet.in/assets/img/logo.png'
      },
 
