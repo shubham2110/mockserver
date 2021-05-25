@@ -8,15 +8,10 @@
   "profile": {
     "name": "typicode"
   },
-  
-   "jitsi" :  {
+  "jitsi":  {
          "backgroundColor": "#f0f",
-
          "backgroundImageUrl": "https://www.impactmeet.in/assets/img/logo.png",
-
          "logoClickUrl": "https://www.impactmeet.in/assets/img/logo.png",
-
          "logoImageUrl": "https://www.impactmeet.in/assets/img/logo.png"
-     },
-
+     }
 }
